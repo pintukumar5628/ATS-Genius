@@ -8,7 +8,11 @@ The Resume Application Tracking System is a web-based solution designed to strea
 
 
 Resume Parsing: Extract and structure information from resumes.
+
 Candidate Ranking: Compare resumes against job descriptions using AI/ML algorithms.
+
 Job Application Management: Track multiple job postings and applications.
+
 Dashboard: A user-friendly interface for recruiters and candidates.
+
 Integration: Support for various resume formats (PDF, Word).

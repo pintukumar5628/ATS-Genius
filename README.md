@@ -1,10 +1,7 @@
-### Resume Application Tracking System
+![image](https://github.com/user-attachments/assets/8a126cb8-bd28-4836-a658-148dcfe8b07e)### Resume Application Tracking System
 
-<p align="center">
-  <img src=resume_icon.jpg width="500px" height="500px" >
-  <br>
-  <em>Image obtained from <a href="https://ideogram.ai">ideogram.ai</a></em>
-</p>
+![image](https://github.com/user-attachments/assets/0310c647-4bb9-4980-8e81-613ba35325c2)
+
 
 ## Overview
 
@@ -29,9 +26,8 @@ This is an ATS Genius using the Gemini Pro model through Vertex AI and the magic
 
 This is how the streamlit app looks like:
 
-<p align="center">
-  <img src=streamlit_homepage.png width="700px" height="400px" >
-</p>
+![image](https://github.com/user-attachments/assets/31229d4b-aa79-41ba-b319-4a2533583c83)
+
 
 **Disclaimer**
 This product is only for educational purposes and not for commercial use.

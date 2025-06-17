@@ -1,6 +1,7 @@
-![image](https://github.com/user-attachments/assets/8a126cb8-bd28-4836-a658-148dcfe8b07e)### Resume Application Tracking System
+### Resume Application Tracking System
 
-![image](https://github.com/user-attachments/assets/0310c647-4bb9-4980-8e81-613ba35325c2)
+![image](https://github.com/user-attachments/assets/8a126cb8-bd28-4836-a658-148dcfe8b07e)
+
 
 
 ## Overview

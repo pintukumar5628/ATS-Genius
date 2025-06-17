@@ -8,6 +8,7 @@
 
 ## Overview
 
+
 This is an ATS Genius using the Gemini Pro model through Vertex AI and the magic of prompt engineering. You can follow these steps to analyze your own resume.
 
 1. Copy-Paste a Job description in the provided box (Use Command+Enter or Ctrl+Enter)
